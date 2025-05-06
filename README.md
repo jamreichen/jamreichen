@@ -1,4 +1,4 @@
-# ![Your Image](https://github.com/jamreichen/Hi.png) 
+# ![Your Image](Hi.png) 
 
 ## Hi, I'm Jamie 👋
 
